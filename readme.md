@@ -63,3 +63,5 @@ A plain text editor is helpful when you're writing code or HTML, want to view XM
 ###OpenRefine
 ###Excel tips
 
+-----
+###Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)
